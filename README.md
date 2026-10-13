@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Mohit Raj 👋
 
-<!--
-**mohitraj-dev/mohitraj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate focused on building my career in
+software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Java Full Stack Development and
+working on projects to strengthen my programming skills.
+
+## 🚀 Technologies I'm Learning
+
+- Java
+- HTML & CSS
+- JavaScript
+- React
+- Spring Boot
+- MySQL
+- Git & GitHub
+
+## 🎯 Current Goals
+
+- Strengthen Java and Data Structures & Algorithms.
+- Build real-world full-stack applications.
+- Improve problem-solving skills.
+- Prepare for software developer interviews.
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile
+- Portfolio: Add your portfolio link
